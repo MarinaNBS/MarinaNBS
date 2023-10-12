@@ -1,4 +1,3 @@
- <div class="container" style="background-color: #001A23; font-color: #D4E6B5;" >
   <h1 align="center"> Hi there 👋 Welcome to my GitHub</h1>
   <h3 align="left" style="margin-left: 20px;">I'm Marina, a Junior Full Stack Developer 👩‍💻</h3>
   <br>
@@ -28,12 +27,11 @@
         }
   <hr>
   - 📫 How to reach me **_mnascimentos11@gmail.com_**
+  <br>
   - 📄 Know about my experiences [https://flowcv.com/resume/g473ml58qo](https://flowcv.com/resume/g473ml58qo)
   
   <p> 📊 Stats: </p>
-    
   <p align="center">&nbsp;<img style="background-color: #31493C; font-color:#D6D6B1" src="https://github-readme-stats.vercel.app/api?username=marinanbs&show_icons=true&locale=en" alt="marinanbs" / ></p>
   
   <h4 align="center"> It's a pleasure to have you around here! ✌</h4>
   <br>
-</div>
