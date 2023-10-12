@@ -1,5 +1,5 @@
   <h1 align="center"> Hi there 👋 Welcome to my GitHub</h1>
-  <h3  ml-2 align="left" style="margin-left:2px;">I'm Marina, I'm a Junior Full Stack Developer 👩‍💻</h3>
+  <h3  ml-2 align="left" style="margin-left:2px;">I'm Marina, a Junior Full Stack Developer 👩‍💻</h3>
   <br>
   <hr>
                                     
