@@ -26,10 +26,17 @@
         },
       }
 <hr>
+<!-- Default dropend button -->
+<div class="btn-group dropend">
+  <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+   More 💬
+  </button>
+  <ul class="dropdown-menu">
+    - 📫 How to reach me **_mnascimentos11@gmail.com_**
+    - 📄 Know about my experiences [https://flowcv.com/resume/g473ml58qo](https://flowcv.com/resume/g473ml58qo)
+  </ul>
+</div>
 
-- 📫 How to reach me **_mnascimentos11@gmail.com_**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/g473ml58qo](https://flowcv.com/resume/g473ml58qo)
 
   
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=marinanbs&show_icons=true&locale=en" alt="marinanbs" /></p>
