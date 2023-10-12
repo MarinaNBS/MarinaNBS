@@ -1,16 +1,16 @@
   <h1 align="center"> Hi there 👋 Welcome to my GitHub</h1>
   <h3 align="center" style="margin-left:2px;">I'm Marina, I'm a Junior Full Stack Developer 👩‍💻</h3>
   <br>
-  <hr>
-  <h4> It's a pleasure to have you around here! ✌</h4>
+  <h4 align="center"> It's a pleasure to have you around here! ✌</h4>
+   <hr>
                                         
                                              const marinaBorges = {
                                                 availableForHire: true,
                                                 education: "Le Wagon Online, a 24-week part-time intensive coding bootcamp",
-                                                currentlyLearning: "**JavaScript30 and GoRails**"
+                                                currentlyLearning: "JavaScript30 and GoRails"
                                                 otherAlias: "Junior Full Stack Developer",
                                                 codesIn: ["HTML", "CSS", "Ruby"],
-                                                currentlylearning: ["Ruby on Rails", "JavaScript 30"],
+                                                currentlyLearning: ["Ruby on Rails", "JavaScript 30"],
                                                 workingOn: "Lemonade Bakery Website 🍋 🎨"
                                                 toolsUsed: {
                                                    "Visual Studio Code",
@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinanbs&show_icons=true&locale=en" alt="marinanbs" /></p>
 
-- 📫 How to reach me **mnascimentos11@gmail.com**
+- 📫 How to reach me **_mnascimentos11@gmail.com_**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/g473ml58qo](https://flowcv.com/resume/g473ml58qo)
