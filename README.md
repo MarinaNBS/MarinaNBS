@@ -1,12 +1,9 @@
-  <h1 align="center"> Hi there 👋</h1>
-   <h3 align="center">Welcome to my GitHub</h3>
-   <br>
+  <h1 align="center"> Hi there 👋 Welcome to my GitHub</h1>
   <h3 align="center" style="margin-left:2px;">I'm Marina</h3>
-  <h2>, a Junior Full Stack Developer 👩‍💻</h2>
+  <h2> I'm Junior Full Stack Developer 👩‍💻</h2>
   <br>
   <h4> It's a pleasure to have you around here! ✌</h4>
 
-  <div class="container">
     const marinaBorges = {
       availableForHire: true,
       education: "Le Wagon Online, a 24-week part-time intensive coding bootcamp",
@@ -24,7 +21,6 @@
       funFact: "I love competitive cooking ♥🦞, but my husband doesn't want to compete with me anymore because he always loses.💪",
       workingOn: "Lemonade Bakery Project 🍋 🎨"
     }
-  </div>
 
 - 📫 How to reach me **mnascimentos11@gmail.com**
 
