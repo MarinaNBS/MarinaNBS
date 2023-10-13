@@ -11,20 +11,19 @@
           currentlyLearning: "JavaScript30 and GoRails"
           otherAlias: "Junior Full Stack Developer",
           codesIn: ["HTML", "CSS", "Ruby"],
-          currentlyLearning: ["Ruby on Rails", "JavaScript 30"],
-          workingOn: "Lemonade Bakery Website 🍋 🎨"
+          workingOn: "Lemonade Bakery Website 🍋 🎨",
           toolsUsed: {
-             "Visual Studio Code",
-             "Bootstrap",
-             "Figma",
-             "GitHub",
-             "Heroku"
-           }
+               "Visual Studio Code",
+               "Bootstrap",
+               "Figma",
+               "GitHub",
+               "Heroku"
+             },
           funFact: {
-            "I love competitive cooking ♥🦞,
-            but my husband doesn't want to compete with me anymore because he always loses.💪"
-          },
-        }
+              "I love competitive cooking ♥🦞,
+              but my husband doesn't want to compete with me anymore because he always loses.💪"
+            },
+          }
   <hr>
   📫 How to reach me: mnascimentos11@gmail.com
   <br>
