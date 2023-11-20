@@ -11,7 +11,7 @@
           currentlyLearning: "JavaScript30 and GoRails"
           otherAlias: "Junior Full Stack Developer",
           codesIn: ["HTML", "CSS", "Ruby"],
-          workingOn: "Lemonade Bakery Website 🍋 🎨",
+          workingOn: "Samantha Hutton Portfolio 🎨",
           toolsUsed: {
                "Visual Studio Code",
                "Bootstrap",
