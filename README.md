@@ -8,7 +8,7 @@
        const marinaBorges = {
           availableForHire: true,
           education: "Le Wagon Online, a 24-week part-time intensive coding bootcamp",
-          currentlyLearning: "JavaScript30 and GoRails"
+          currentlyLearning: "JavaScript"
           otherAlias: "Junior Full Stack Developer",
           codesIn: ["HTML", "CSS", "Ruby"],
           workingOn: "SamDavy Design Portfolio 🎨",
