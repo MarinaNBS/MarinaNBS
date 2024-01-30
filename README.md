@@ -11,10 +11,9 @@
           currentlyLearning: "JavaScript"
           otherAlias: "Junior Full Stack Developer",
           codesIn: ["HTML", "CSS", "Ruby"],
-          workingOn: "SamDavy Design Portfolio 🎨",
           toolsUsed: {
                "Visual Studio Code",
-               "Bootstrap",aq    
+               "Bootstrap",    
                "Figma",
                "GitHub",
                "Heroku"
