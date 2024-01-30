@@ -17,11 +17,10 @@
                "Figma",
                "GitHub",
                "Heroku"
-             },
+             };
           funFact: {
-              "I love competitive cooking ♥🦞,
-              but my husband doesn't want to compete with me anymore because he always loses.💪"
-            },
+              "I adore to cook 🦞, but love with all my heart the art of eat ♥😁😜"
+            };
           }
   <hr>
   📫 How to reach me: mnascimentos11@gmail.com
