@@ -14,7 +14,7 @@
           workingOn: "SamDavy Design Portfolio 🎨",
           toolsUsed: {
                "Visual Studio Code",
-               "Bootstrap",
+               "Bootstrap",aq    
                "Figma",
                "GitHub",
                "Heroku"
@@ -28,9 +28,6 @@
   📫 How to reach me: mnascimentos11@gmail.com
   <br>
   📄 Know about my experiences [https://flowcv.com/resume/g473ml58qo]
-  
-  <p> 📊 Stats: </p>
-  <p align="center">&nbsp;<img style="background-color: #31493C; font-color:#D6D6B1" src="https://github-readme-stats.vercel.app/api?username=marinanbs&show_icons=true&locale=en" alt="marinanbs" / ></p>
   
   <h4 align="center"> It's a pleasure to have you around here! ✌</h4>
   <br>
