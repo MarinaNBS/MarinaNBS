@@ -8,7 +8,8 @@
        const marinaBorges = {
           availableForHire: true,
           education: "Le Wagon Online, a 24-week part-time intensive coding bootcamp",
-          currentlyLearning: "JavaScript"
+          currentlyCoursing: "Computer Engineering on UAB(Universidade Aberta Portuguesa)"
+          currentlyLearning: "JavaScript, Advanced CSS and Responsive Website with HTML and CSS"
           otherAlias: "Full Stack Developer",
           codesIn: ["HTML", "CSS", "Ruby"],
           toolsUsed: {
