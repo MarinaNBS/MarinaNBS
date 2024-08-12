@@ -20,7 +20,7 @@
                "Heroku"
              };
           funFact: {
-              "I adore to cook 🦞, but love with all my heart the art of eating ♥😁😜"
+              "I adore to cook 🦞, but love with all my heart the art of eat ♥😁😜"
             };
           }
   <hr>
