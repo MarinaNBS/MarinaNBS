@@ -8,7 +8,7 @@
        const marinaBorges = {
           availableForHire: true,
           education: "Le Wagon Online, a 24-week part-time intensive coding bootcamp",
-          currentlyEnrolled: "Computer Engineering at UAB (Universidade Aberta Portuguesa)"
+          currentlyEnrolled: "BSc (Honours) Computing with Electronic Engineering at OU (Open University)"
           currentlyLearning: "JavaScript, Advanced CSS and Responsive Website with HTML and CSS"
           otherAlias: "Full Stack Developer",
           codesIn: ["HTML", "CSS", "Ruby"],
@@ -24,9 +24,9 @@
             };
           }
   <hr>
-  📫 How to reach me: mnascimentos11@gmail.com
+  📫 How to reach me: mborgeswebdev@gmail.com
   <br>
-  📄 Know about my experiences [https://flowcv.com/resume/g473ml58qo]
+  📄 Know about my experiences [https://www.canva.com/design/DAGl6Nbhktw/QmsMdao_y22dsF0NmRwY2w/view?utm_content=DAGl6Nbhktw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6052e422d2]
   
   <h4 align="center"> It's a pleasure to have you around here! ✌</h4>
   <br>
